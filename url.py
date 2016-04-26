@@ -16,5 +16,8 @@ with app.test_request_context():
     print url_for('login', next='/')
     print url_for('profile', username='Caijing')
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 5303fd70beed81ea151c384c9a83d62474f761d1
